@@ -7,8 +7,9 @@ Tracking the user input allows for a higher rate of cart recovery since It allow
 a user has not completed thier registration proccess.
 
 ##Prerequisites
-*[jQuery](https://github.com/jquery/jquery)
-*A server side language (If you want to add Session Id's to Cookies)
+
+* [jQuery](https://github.com/jquery/jquery)
+* A server side language (If you want to add Session Id's to Cookies)
 
 ##Getting Started
 Simply include jQuery and contactCollector.js in your html page and initialize the plugin.
