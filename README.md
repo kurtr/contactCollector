@@ -32,7 +32,7 @@ $(document).collector(selectors, settings);
 
 var settings = {
       Cookie_Expiry: 365, //Cookie Expiry Date (Days)
-      Cookie: 'cCollect', //Name of Cookie
+      Cookie: 'cCollect', //Name of Cookie to update
       Always_Update: true,//Overwrite users cookie if they enter another email address
       Cookie_Path: '/',   //Path of Cookie
       Obscure_Info: true  //Coverts email address to CharCodes in an ip address like format to obsure them from plain site.
